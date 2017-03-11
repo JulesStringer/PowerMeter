@@ -1,0 +1,1 @@
+PowerMeter is a reuse of existing Multi485 boards
