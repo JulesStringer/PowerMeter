@@ -7,4 +7,5 @@ PIC32MX250 board design files in FreePCB format, this is called Multi485Driver a
 PowerMeter adapter board.
 Source code for power meter.
 
-For further discussion see
+For further discussion see [Wiki](http://oakhousehomeautomation.wikidot.com/power-import-export-measurement)
+
