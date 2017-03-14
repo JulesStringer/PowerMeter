@@ -14,5 +14,7 @@ To edit the hardware .fpc files, produce gerbers and so on a copy of FreePCB is 
 
 Software was build using Microchip MPLABX IDE version 3.35, xc32-gcc v1.42
 
-After getting the source files a subfolder TCPIP should be created, and TCPIP related files should be copied there.
-The command file CopyToTCPIP.cmd is provided to do this.
+Download a zip of this repository.
+Create a new microchip embedded standalone project and add the files from the PowerMeter folder of the repository.
+Create a new logical folder TCPIP
+Add the files from the TCPIP subfolder of the repository to the project.
